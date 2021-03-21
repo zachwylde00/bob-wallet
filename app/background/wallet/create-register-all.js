@@ -1,5 +1,3 @@
-import walletClient from "../../utils/walletClient";
-
 const MTX = require('hsd/lib/primitives/mtx');
 const {states} = require('hsd/lib/covenants/namestate');
 const rules = require('hsd/lib/covenants/rules');
